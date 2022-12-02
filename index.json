@@ -1,0 +1,14 @@
+{
+    "recipes": {
+        "luckyseven/validation": [
+            "1.0"
+        ]
+    },
+    "branch": "main",
+    "is_contrib": true,
+    "_links": {
+        "repository": "github.com/giacomoto/validation-recipes",
+        "origin_template": "{package}:{version}@github.com/giacomoto/validation-recipes:main",
+        "recipe_template": "https://api.github.com/repos/giacomoto/validation-recipes/contents/{package_dotted}.{version}.json"
+    }
+}

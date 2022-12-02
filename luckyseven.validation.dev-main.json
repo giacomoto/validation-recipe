@@ -1,0 +1,14 @@
+{
+  "manifests": {
+    "luckyseven/validation": {
+      "manifest": {
+        "bundles": {
+          "Luckyseven\\Bundle\\LuckysevenValidationBundle\\LuckysevenValidationBundle": [
+            "all"
+          ]
+        },
+      },
+      "ref": "5b2157bcd13454fds5696e42f552ad36529a07a7"
+    }
+  }
+}
