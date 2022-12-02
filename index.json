@@ -9,6 +9,6 @@
     "_links": {
         "repository": "github.com/giacomoto/validation-recipe",
         "origin_template": "{package}:{version}@github.com/giacomoto/validation-recipes:main",
-        "recipe_template": "https://api.github.com/repos/giacomoto/validation-recipes/contents/{package_dotted}.{version}.json"
+        "recipe_template": "https://api.github.com/repos/giacomoto/validation-recipe/contents/{package_dotted}.{version}.json"
     }
 }
